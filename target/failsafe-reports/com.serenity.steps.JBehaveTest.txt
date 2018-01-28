@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.serenity.steps.JBehaveTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.452 sec <<< FAILURE! - in com.serenity.steps.JBehaveTest
+run(com.serenity.steps.JBehaveTest)  Time elapsed: 0.328 sec  <<< ERROR!
+org.jbehave.core.io.StoryResourceNotFound: Story path 'consult_dictionary/LookupADefinition.story' not found by class loader sun.misc.Launcher$AppClassLoader@4aa298b7
+	at com.serenity.steps.JBehaveTest.run(JBehaveTest.java:33)
+

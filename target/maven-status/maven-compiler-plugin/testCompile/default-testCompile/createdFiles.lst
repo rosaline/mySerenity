@@ -1,0 +1,8 @@
+com/serenity/steps/serenity/EndUserSteps.class
+com/serenity/steps/JBehaveTest.class
+com/serenity/steps/JBehaveTest$ReportBuilder.class
+com/serenity/steps/JBehaveTest$StoryLoader.class
+com/serenity/AcceptanceTestSuite.class
+com/serenity/pages/DictionaryPage.class
+com/serenity/steps/DefinitionSteps.class
+com/serenity/JunitTest.class
